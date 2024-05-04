@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/aUkPocx.png" width="400" alt="phpwaifu."></p>
-<p align="center">
+
 # About phpwaifu
 Phpwaifu is API library for [waifu.pics](https://github.com/Waifu-pics/waifu-api "waifu.pics"), a platform and API for anime images. Now everyone can enjoy waifus on your website! I made it for fun but feel free to use it anywhere. In the future maybe I will add more features.
 ## Installation
