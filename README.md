@@ -5,7 +5,7 @@
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/kanashimo/phpwaifu">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kanashimo/phpwaifu">
 <img alt="GitHub License" src="https://img.shields.io/github/license/kanashimo/phpwaifu">
-<img alt="made by Kanashimo" src="https://img.shields.io/badge/made%20by%20kanashimo-8A2BE2">
+<img alt="made by Kanashimo" src="https://img.shields.io/badge/made%20by%20Kanashimo-8A2BE2">
 </p>
 
 # About phpwaifu
