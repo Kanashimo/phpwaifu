@@ -5,6 +5,7 @@
 <a href="https://github.com/Kanashimo/phpwaifu/commits/main/"><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/kanashimo/phpwaifu"></a>
 <a href="https://github.com/Kanashimo/phpwaifu/commits/main/"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kanashimo/phpwaifu"></a>
 <a href="https://github.com/Kanashimo/phpwaifu/blob/main/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/kanashimo/phpwaifu"></a>
+<a href="https://www.codefactor.io/repository/github/kanashimo/phpwaifu"><img src="https://www.codefactor.io/repository/github/kanashimo/phpwaifu/badge" alt="CodeFactor" /></a>
 <a href="https://github.com/Kanashimo"><img alt="made by Kanashimo" src="https://img.shields.io/badge/made%20by%20Kanashimo-8A2BE2"></a>
 </p>
 
