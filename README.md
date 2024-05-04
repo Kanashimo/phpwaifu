@@ -45,3 +45,5 @@ if($phpwaifu->err){
     echo $request;
 }
 ```
+## License
+Released under the MIT license.
