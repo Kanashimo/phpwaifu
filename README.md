@@ -5,7 +5,7 @@ Phpwaifu is API library for [waifu.pics](https://github.com/Waifu-pics/waifu-api
 ## Installation
 Install phpwaifu via Composer:
 ```
-composer require kanashimo/phpwaifu
+composer require kanashimo/phpwaifu:1.0.0-beta
 ```
 ## Usage
 ```php
